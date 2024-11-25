@@ -5,8 +5,8 @@
   background-color: #dcc9f4;
 }
 .top-child {
+  display: inline-block;
   width: 20%;
-  display: inline;
   background-color: #ffd9df;
 }
 #middle {
